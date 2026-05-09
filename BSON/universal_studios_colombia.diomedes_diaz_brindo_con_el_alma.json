@@ -1,0 +1,45 @@
+[{
+  "_id": "ddbca_001",
+  "titulo": "Sin Medir Distancias",
+  "anio_salida": 1986,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "diomedes_diaz_brindo_con_el_alma.jpg",
+  "genero": "Vallenato",
+  "numero_pista": 1
+},
+{
+  "_id": "ddbca_002",
+  "titulo": "Ayudame A Quererte",
+  "anio_salida": 1986,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "diomedes_diaz_brindo_con_el_alma.jpg",
+  "genero": "Vallenato",
+  "numero_pista": 2
+},
+{
+  "_id": "ddbca_003",
+  "titulo": "Brindo Con El Alma",
+  "anio_salida": 1986,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "diomedes_diaz_brindo_con_el_alma.jpg",
+  "genero": "Vallenato",
+  "numero_pista": 3
+},
+{
+  "_id": "ddbca_004",
+  "titulo": "Los Sabanales",
+  "anio_salida": 1986,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "diomedes_diaz_brindo_con_el_alma.jpg",
+  "genero": "Vallenato",
+  "numero_pista": 4
+},
+{
+  "_id": "ddbca_005",
+  "titulo": "Pasajeros De La Vida",
+  "anio_salida": 1986,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "diomedes_diaz_brindo_con_el_alma.jpg",
+  "genero": "Vallenato",
+  "numero_pista": 5
+}]

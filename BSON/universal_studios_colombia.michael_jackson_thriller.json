@@ -1,0 +1,45 @@
+[{
+  "_id": "mjt_001",
+  "titulo": "Billie Jean",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "michael_jackson_thriller.jpg",
+  "genero": "Pop/R&B",
+  "numero_pista": 1
+},
+{
+  "_id": "mjt_002",
+  "titulo": "Thriller",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "michael_jackson_thriller.jpg",
+  "genero": "Pop/R&B",
+  "numero_pista": 2
+},
+{
+  "_id": "mjt_003",
+  "titulo": "Beat It",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "michael_jackson_thriller.jpg",
+  "genero": "Pop/R&B",
+  "numero_pista": 3
+},
+{
+  "_id": "mjt_004",
+  "titulo": "Baby Be Mine",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "michael_jackson_thriller.jpg",
+  "genero": "Pop/R&B",
+  "numero_pista": 4
+},
+{
+  "_id": "mjt_005",
+  "titulo": "The Lady in My Life",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "michael_jackson_thriller.jpg",
+  "genero": "Pop/R&B",
+  "numero_pista": 5
+}]

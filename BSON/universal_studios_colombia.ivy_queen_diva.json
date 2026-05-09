@@ -1,0 +1,45 @@
+[{
+  "_id": "iqd_001",
+  "titulo": "Yo Quiero Bailar",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "numero_pista": 1
+},
+{
+  "_id": "iqd_002",
+  "titulo": "Tuya Soy",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "numero_pista": 2
+},
+{
+  "_id": "iqd_003",
+  "titulo": "Venganza",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "numero_pista": 3
+},
+{
+  "_id": "iqd_004",
+  "titulo": "En El Principio",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "numero_pista": 4
+},
+{
+  "_id": "iqd_005",
+  "titulo": "Somos Raperos Pero No Delincuentes",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "numero_pista": 5
+}]

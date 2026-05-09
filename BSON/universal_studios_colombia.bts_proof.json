@@ -1,0 +1,45 @@
+[{
+  "_id": "btsp_001",
+  "titulo": "No More Dream",
+  "anio_salida": 2022,
+  "autor": "BTS",
+  "id_imagen_portada": "bts_proof.jpg",
+  "genero": "K-Pop",
+  "numero_pista": 1
+},
+{
+  "_id": "btsp_002",
+  "titulo": "Born Singer",
+  "anio_salida": 2022,
+  "autor": "BTS",
+  "id_imagen_portada": "bts_proof.jpg",
+  "genero": "K-Pop",
+  "numero_pista": 2
+},
+{
+  "_id": "btsp_003",
+  "titulo": "I NEED U",
+  "anio_salida": 2022,
+  "autor": "BTS",
+  "id_imagen_portada": "bts_proof.jpg",
+  "genero": "K-Pop",
+  "numero_pista": 3
+},
+{
+  "_id": "btsp_004",
+  "titulo": "Quotation Mark",
+  "anio_salida": 2022,
+  "autor": "BTS",
+  "id_imagen_portada": "bts_proof.jpg",
+  "genero": "K-Pop",
+  "numero_pista": 4
+},
+{
+  "_id": "btsp_005",
+  "titulo": "Jump (Demo Ver.)",
+  "anio_salida": 2022,
+  "autor": "BTS",
+  "id_imagen_portada": "bts_proof.jpg",
+  "genero": "K-Pop",
+  "numero_pista": 5
+}]
