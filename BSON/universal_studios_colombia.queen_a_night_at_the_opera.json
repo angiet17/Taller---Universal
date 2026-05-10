@@ -1,0 +1,27 @@
+[{
+  "_id": "qanato_001",
+  "titulo": "Love Of My Life",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "numero_pista": 1
+},
+{
+  "_id": "qanato_002",
+  "titulo": "Bohemian Rhapsody",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "numero_pista": 2
+},
+{
+  "_id": "qanato_005",
+  "titulo": "Good Company",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "queen_a_night_at_the_opera.jpg",
+  "genero": "Rock",
+  "numero_pista": 5
+}]
