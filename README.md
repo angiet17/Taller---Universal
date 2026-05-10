@@ -180,37 +180,6 @@ Deletion operations were performed on the database: two songs were removed from 
 
 ---
 
-## 🚀 How to Replicate This Project
-
-### Prerequisites
-- MongoDB installed and running on `localhost:27017`
-- MongoDB Compass (GUI) or `mongosh` (terminal)
-- `mongodump` / `mongorestore` tools installed
-
-### Import the database from BSON
-
-```bash
-mongorestore --db universal_studios_colombia ./taller_nosql_backup/universal_studios_colombia/
-```
-
-### Import a specific collection
-
-```bash
-mongorestore --db universal_studios_colombia \
-  --collection lady_gaga_a_star_is_born \
-  ./taller_nosql_backup/universal_studios_colombia/lady_gaga_a_star_is_born.bson
-```
-
-### Verify the import in mongosh
-
-```js
-use universal_studios_colombia
-show collections
-db.lady_gaga_a_star_is_born.find().pretty()
-```
-
----
-
 ## 👥 Team
 
 David Castro, Alejandro Pardo & Angie Tobar
