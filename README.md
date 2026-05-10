@@ -213,7 +213,7 @@ db.lady_gaga_a_star_is_born.find().pretty()
 
 ## 👥 Team
 
-Developed by a group of 3 students as part of the NoSQL Databases practical workshop at Universal Studios Colombia.
+David Castro, Alejandro Pardo & Angie Tobar
 
 ---
 
